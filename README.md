@@ -18,20 +18,24 @@ Ensure you have the following installed on your machine:
 2. **Open the Project:**
    - Open the project directory in Visual Studio Code.
 
-3. **Navigate to the Project Directory:**
+     
+3. **Replace 'Your_API_key' **
+   -Replace the term Your_API_Key in Gemini.js in config folder by getting an API_Key
+   
+4. **Navigate to the Project Directory:**
    - Open the terminal in Visual Studio Code.
    - Navigate to the project directory using the terminal:
      ```bash
      cd Gemini_Clone
      ```
 
-4. **Install Dependencies:**
+5. **Install Dependencies:**
    - In the terminal, run the following command to install the necessary dependencies:
      ```bash
      npm install
      ```
 
-5. **Run the Project:**
+6. **Run the Project:**
    - To start the development server, run:
      ```bash
      npm run dev
