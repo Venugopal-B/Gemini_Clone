@@ -19,8 +19,9 @@ Ensure you have the following installed on your machine:
    - Open the project directory in Visual Studio Code.
 
      
-3. **Replace 'Your_API_key' **
-   -Replace the term Your_API_Key in Gemini.js in config folder by getting an API_Key
+3. **Replace 'Your_API_key'**
+   - Replace the term Your_API_Key in Gemini.js in config folder by getting an API_Key.
+     
    
 4. **Navigate to the Project Directory:**
    - Open the terminal in Visual Studio Code.
